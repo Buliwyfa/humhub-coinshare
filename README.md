@@ -1,0 +1,2 @@
+# humhub-coinshare
+Sharing coins
